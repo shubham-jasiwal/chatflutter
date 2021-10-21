@@ -10,7 +10,7 @@ void main() async {
   Widget home = AuthScreen();
   FirebaseAuth auth = FirebaseAuth.instance;
   if (auth.currentUser != null) {
-    home = ChatScreen();
+    home = ChatsScreen();
   }
 
   runApp(

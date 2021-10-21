@@ -30,8 +30,6 @@ And again click it to encrypt.
 Users can leave the room or logout from the app using logout button at the top.
 
 
-## Setup
-
   ##### Clone the repository
 ```bash
 git clone https://github.com/azim2429/Flutter-Chat-Application.git

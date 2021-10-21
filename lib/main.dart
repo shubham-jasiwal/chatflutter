@@ -16,7 +16,7 @@ void main() async {
   runApp(
     new MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Chat',
+      title: 'WaVe',
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
